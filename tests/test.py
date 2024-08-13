@@ -13,7 +13,7 @@ def test_eight_components():
 
     driver.implicitly_wait(0.5)
     sso_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//*[@id="idp_hint"]/button"))
+        EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div[1]/div/div/div[4]/div[1]/button"))
     )
     sso_button.click()
 
