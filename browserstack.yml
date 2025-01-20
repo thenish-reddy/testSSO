@@ -1,10 +1,6 @@
-userName: jthenishreddy_p6uYAP
-accessKey: TSaGwN86q4tDv8jbxp4C
+userName: thenu_fr1sIT
+accessKey: rSfP7Y1VdcnwDMynND3Y
 platforms:
-  - os: Windows
-    osVersion: 10
-    browserName: Chrome
-    browserVersion: 120.0
   - os: Windows
     osVersion: 11
     browserName: Chrome
